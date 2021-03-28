@@ -3,7 +3,7 @@
 My name is Ben Gold and I'm a Hobby Developer/Hobby coder to learn. I'm from the United Kingdom, living in Newcastle Upon Tyne and currently studying at a local College. 
 
 You can find me on discord;
-dnd#8194
+dnd#0666
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
